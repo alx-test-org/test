@@ -1,1 +1,1 @@
-# test
+Test for https://infrabox.ninja
